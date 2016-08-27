@@ -1,0 +1,18 @@
+{
+  "name": "vk_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botkit": "x.x.x",
+    "request": "x.x.x",
+    "request-promise": "x.x.x",
+    "underscore": "1.8.3",
+    "dotenv": "2.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
