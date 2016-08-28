@@ -11,7 +11,8 @@
     "request": "x.x.x",
     "request-promise": "x.x.x",
     "underscore": "1.8.3",
-    "dotenv": "2.0.0"
+    "dotenv": "2.0.0",
+    "qs": "x.x.x"
   },
   "author": "",
   "license": "ISC"
